@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>My Title</title>
+</head>
+<p align="center"><a href="bold.html" >click here</a></p>
+<p align="center"><a href="1.html" >click here for another page</a></p>
+</body>/
+</html>
